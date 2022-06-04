@@ -1,0 +1,18 @@
+.skill_grid {
+    display: grid;
+    grid-template-columns: auto auto auto;
+    gap: 20px;
+}
+
+.skill_grid p {
+    
+    text-align: left;
+   
+    
+
+}
+
+.passive, .q, .w, .e {
+    text-align: left;
+    color: blue;
+}
